@@ -1,0 +1,1 @@
+document.write(katex.renderToString(nerdamer('integrate(sin(x), x)').toTeX()))
